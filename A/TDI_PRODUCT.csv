@@ -1,0 +1,80 @@
+﻿productid;PRD_ProductName;supplierid;PRD_Supplier_name;PRD_CategoryID;PRD_Categorie;PRD_QuantityPerUnit;PRD_UnitCost;PRD_UnitPrice;PRD_UnitsInStock;PRD_UnitsOnOrder
+1;Lenin Jeansshorts;1;Sunny Clothes;1;"Men's Clothes";10;15,37;20;39;0
+2;Mr2 Trousers;1;Sunny Clothes;1;"Men's Clothes";10;16,17;19;17;40
+3;Chantell Shirt;1;Sunny Clothes;2;"Women's Clothes";20;15,45;20;13;70
+4;Rossi Shorts;2;Big L;2;"Women's Clothes";15;19,34;22;53;0
+5;O-Man Underwear;2;Big L;1;"Men's Clothes";100;4,72;6;0;0
+6;Shagall Socks;3;Dressed for Succes;2;"Women's Clothes";50;3,21;4;120;0
+7;Runner Shoes;3;Dressed for Succes;7;"Children's Clothes";40;33,11;40;15;0
+8;Tuxedo Top;3;Dressed for Succes;2;"Women's Clothes";20;16,14;20;6;0
+9;Fuji Boots;4;NR;6;"Men's Footwear";10;32,9;39;29;0
+10;Sapporoo Gloves;4;NR;8;Baby Clothes;20;6,2;7;31;0
+11;Desperado Jeans;5;Los Hombres Machos;1;"Men's Clothes";25;21,1;28;22;30
+12;Tank Swimsuit;5;Los Hombres Machos;4;Swimwear;20;7,92;10;86;0
+13;Aino Shoes;6;SatSUMAs;8;Baby Clothes;25;21,11;25;24;0
+14;Kool Sunglasses;6;SatSUMAs;7;"Children's Clothes";21;20,36;23,25;35;0
+15;Sumi Underwear;6;SatSUMAs;2;"Women's Clothes";30;4,98;6,5;39;0
+16;Wimbledon T-Shirt;7;New Balls;3;Sportswear;24;7,33;9,45;29;0
+17;TieBreak Tennis shoes;7;New Balls;6;"Men's Footwear";36;19,35;25;0;0
+18;Deuce Shirt;7;New Balls;8;Baby Clothes;18;22,09;25,5;42;0
+19;Squash Shorts;8;Hot Pants;3;Sportswear;1;7,4;9,2;25;0
+20;Tennis Suit;8;Hot Pants;3;Sportswear;1;64,49;81;40;0
+21;Basket Shoes;8;Hot Pants;3;Sportswear;1;8,78;10;3;40
+22;Ravellis Träskor;9;Goa Kläder;5;"Women's Footwear";90;2,65;3,5;104;0
+23;DSW Sandals;9;Goa Kläder;5;"Women's Footwear";100;7,43;9;61;0
+24;Samba Soccer Socks;10;Samba;1;"Men's Clothes";100;3,9;4,5;20;0
+25;Basket Vest;11;Der Bahnhof;3;Sportswear;1;10,85;14;76;0
+26;Bike Helmet;11;Der Bahnhof;3;Sportswear;1;26,13;31,23;15;0
+27;Tracksuit;11;Der Bahnhof;3;Sportswear;1;36,06;43,9;49;0
+28;RDL Suit;12;Austerlich;7;"Children's Clothes";1;36,81;45,6;26;0
+29;Davenport Shoes;12;Austerlich;6;"Men's Footwear";1;100,74;123,79;0;0
+30;Baby Dark Lounge Suit;13;Executive Clothing GMBH;8;Baby Clothes;1;22,71;25,89;10;0
+31;Rossi Bermuda Shorts;14;Ravenna Fashion;1;"Men's Clothes";20;7,53;8,5;0;70
+32;Riviera Swimsuit;14;Ravenna Fashion;4;Swimwear;30;15,12;19;9;40
+33;Casual Boots;15;Bar Åkeri;3;Sportswear;25;20,2;25,5;112;0
+34;Baywatch Swimsuit;16;Smooth Clothes;4;Swimwear;12;6,76;8;111;0
+35;LA. Shorts;16;Smooth Clothes;4;Swimwear;14;5,17;6;20;0
+36;Mehmet-Tröja;17;ABC;8;Baby Clothes;20;6,45;8;112;0
+37;Mehmet-Skor;17;ABC;8;Baby Clothes;21;3,43;4;11;50
+38;Le Baby Dress;18;Like Paradis;2;"Women's Clothes";4;62,38;80,5;17;0
+39;Terence Top;18;Like Paradis;2;"Women's Clothes";3;48,17;60;69;0
+40;Duck Trousers;19;Mayflower;8;Baby Clothes;1;16,34;18,4;123;0
+41;Duck Shirt;19;Mayflower;8;Baby Clothes;1;7,28;9,65;85;0
+42;Walking Shoes;20;Asin Fashion Ltd Co;5;"Women's Footwear";1;10,95;14;26;0
+43;Summer Shorts;20;Asin Fashion Ltd Co;4;Swimwear;1;10,48;12;17;10
+44;Okkaba Skin Jackets;20;Asin Fashion Ltd Co;2;"Women's Clothes";7;67,17;75,45;27;0
+45;Danske Treshoe;21;Prael Ltd;6;"Men's Footwear";100;8,44;9,5;5;70
+46;Rodbye Troje;21;Prael Ltd;8;Baby Clothes;40;9,07;12;95;0
+47;Lundenhagen Boots;22;Niemegen Boots;6;"Men's Footwear";14;22,12;25,5;36;0
+48;Root Boot;22;Niemegen Boots;6;"Men's Footwear";25;28,35;32,75;15;70
+49;Finnish Sport Blades;23;Nordik Koskenkorva;3;Sportswear;1;15,43;20;10;60
+50;Finnish Swimsuit;23;Nordik Koskenkorva;4;Swimwear;1;13,57;16,25;65;0
+51;Summit Hiking Boots;24;Cangaroo Shoes;6;"Men's Footwear";10;82,74;99,9;20;0
+52;Winter Boots;24;Cangaroo Shoes;5;"Women's Footwear";14;70,81;80;38;0
+53;Jack Flash Dress;24;Cangaroo Shoes;2;"Women's Clothes";6;52,38;60,8;0;0
+54;Patamonia Fleece Jacket;25;Mountain International;3;Sportswear;24;30,27;35,45;21;0
+55;Feiss Fleece Trousers;25;Mountain International;3;Sportswear;20;33,18;39;115;0
+56;Slip-on Shoes;26;Pirilli Company;5;"Women's Footwear";15;34,17;38;21;10
+57;Lightweight Sandals;26;Pirilli Company;5;"Women's Footwear";20;16,14;19,5;36;0
+58;Onesy Dress;27;Gal Export;8;Baby Clothes;20;37,17;48,25;62;0
+59;Rasta WCT;28;FrisersAfrong;3;Sportswear;105;6,69;8,5;79;0
+60;Game Over T-Shirt;28;FrisersAfrong;3;Sportswear;53;4,44;5;19;0
+61;AAA Running Shoe;29;Fast Runners;3;Sportswear;20;22,24;26,5;113;0
+62;Lace Shoes;29;Fast Runners;3;Sportswear;30;25,39;29,3;17;0
+63;Serve-Shirt;7;New Balls;2;"Women's Clothes";68;15,9;19,9;24;0
+64;WFS Shoes;12;Austerlich;5;"Women's Footwear";1;29,25;33,25;22;80
+65;Stretch Pants;2;Big L;2;"Women's Clothes";40;8,68;10,05;76;0
+66;Langoste Shirt;2;Big L;2;"Women's Clothes";15;16,58;19;4;100
+67;Minnki Pälsii;16;Smooth Clothes;2;"Women's Clothes";26;46,1;60;52;0
+68;Cap;8;Hot Pants;3;Sportswear;1;9,67;12,5;6;10
+69;Tube Socks;15;Bar Åkeri;3;Sportswear;100;1,65;2;26;0
+70;US-Master Jeans;7;New Balls;1;"Men's Clothes";15;24,98;29;15;10
+71;Atles Lussekofta;15;Bar Åkeri;1;"Men's Clothes";10;26,49;30,5;26;0
+72;Oyaki Kimono;14;Ravenna Fashion;2;"Women's Clothes";30;8,96;11,8;14;0
+73;Mehmet-Napp;17;ABC;8;Baby Clothes;100;0,89;1,1;101;0
+74;X-Train Shoes;4;NR;7;"Children's Clothes";30;24,39;30;4;20
+75;Bow tie;12;Austerlich;1;"Men's Clothes";1;6,61;7,75;125;0
+76;Halter Dress;23;Nordik Koskenkorva;2;"Women's Clothes";2;304,7;399;57;0
+77;Wrap Skirt;12;Austerlich;2;"Women's Clothes";1;10,95;13;32;0
+78;gggggggg;34;NR;4;Swimwear;5;;;0;0
+79;YYYYYYY;34;NR;56;NR;78;777;7777;0;0

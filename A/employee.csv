@@ -1,0 +1,37 @@
+﻿EmployeeID	Emp_Last_Name	Emp_First_Name	Emp_Title	Emp_Hire_Date	Emp_Office	Emp_Extension	Emp_Reports	Emp_Year	nb_employee
+24	Crawford	Judy	Systems Manager	38511	1	200	19	50400	1
+1	Roll	Frank	Sales Representative	37895	2	501	4	61000	1
+2	Presley	Erik	President	37878	1	101		180000	1
+3	Carsson	Rob	Sales Representative	38261	5	102	4	63000	1
+9	Brolin	Helen	Sales Representative	39128	1	103	4	60000	1
+42	Ärlig	Östen	Account Manager	37979	1	104	3	51000	1
+52	Ashkenaz	Mike	Account Manager	38321	1	-	42	49500	1
+7	Lindwall	Tom	Sales Representative	39135	2	201	4	61000	1
+8	Shine	Leif	Sales Coordinator	38051	2	202	2	65000	1
+19	Lawson	David	Product Manager	37904	2	222	8	55500	1
+23	Sandu	Cezar	Systems Manager	37674	2	200	19	51000	1
+43	Park	Bob	Account Manager	38269	2	203	7	50000	1
+44	Kent	Andrew	Account Manager	38017	2	204	7	55000	1
+4	Callins	Joan	Sales Manager	38233	3	301	2	120000	1
+5	Hendrix	Ingrid	Sales Representative	38642	3	302	4	61300	1
+20	Cleaves	John	Product Manager	38263	3	333	8	55000	1
+32	Wesenlund	Rolf	Storeman	38562	3	300	20	50300	1
+33	Lindquist	Ann	Storeman	37997	3	300	20	50100	1
+36	Clouseau	Jacques	Storeman	38566	3	300	20	51000	1
+45	Cheng	Joe	Account Manager	38566	3	303	5	52000	1
+46	Alpan	Kaya	Account Manager	38007	3	304	5	51000	1
+51	Lanza	Luke	Operator/Clerk	37624	3	-	4	35700	1
+6	Skoglund	Lennart	Sales Representative	38003	4	401	4	61200	1
+21	Takako	Miro	Product Manager	38405	4	444	8	55000	1
+37	Tessel	Jerry	Network Manager	37835	4	400	21	72000	1
+38	Applegate	John	Network Manager	38962	4	400	21	68000	1
+39	Salvatori	Marcus	Storeman	38359	4	400	21	51000	1
+41	Gupta	Sunil	Storeman	39086	4	400	21	50000	1
+47	Tyson	Michelle	Account Manager	39114	4	402	6	50000	1
+48	Gucci	Ricardo	Account Manager	37987	4	403	6	47600	1
+22	Protzmann	Binh	Product Manager	38052	5	555	8	56000	1
+27	Kregler	Mario	Systems Manager	38143	5	500	22	51300	1
+29	Stevenson	Sven	Storeman	38015	5	500	22	51000	1
+30	Baumel	Ira	Storeman	39447	5	500	22	50200	1
+161	Lind	Stefan	Account Manager	38714	5	-	27	49500	1
+999			President						1

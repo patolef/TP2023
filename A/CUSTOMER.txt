@@ -1,0 +1,102 @@
+﻿CDE_CustomerID*SEP*Cli_CompanyName*SEP*Cli_ContactName*SEP*Cli_City*SEP*Cli_Country*SEP*Cli_DivisionID*SEP*Cli_Division*SEP*Cli_Address*SEP*Cli_Fax*SEP*Cli_Phone*SEP*Cli_PostalCode*SEP*Cli_StateProvince*SEP*nb_clients
+1*SEP*Eintrach GS*SEP*Albert von Einstein*SEP*Berlin*SEP*Germany*SEP*1*SEP*Europe*SEP*Obere Str. 57*SEP*030-0076545*SEP*030-0074321*SEP*12209*SEP**SEP*1
+2*SEP*La Tienda de la Esquina*SEP*Paco el Maco*SEP*México D.F.*SEP*Mexico*SEP*2*SEP*North America*SEP*Avda. de la Constitución 2222*SEP*(5) 555-3745*SEP*(5) 555-4729*SEP*5021*SEP**SEP*1
+3*SEP*La Ropa Vieja*SEP*Sancho Panza*SEP*México D.F.*SEP*Mexico*SEP*2*SEP*North America*SEP*C/ Ritual de lo Habitual  2312*SEP**SEP*(5) 555-3932*SEP*5023*SEP**SEP*1
+4*SEP*Dr Jims Trousers*SEP*Carl Montgomery*SEP*London*SEP*UK*SEP*1*SEP*Europe*SEP*120 Hanover Sq.*SEP*(171) 555-6750*SEP*(171) 555-7788*SEP*WA1 1DP*SEP**SEP*1
+5*SEP*Urras Shop*SEP*Urra Gurra Aktersnurra*SEP*Luleå*SEP*Sweden*SEP*3*SEP*Scandinavia*SEP*Berguvsvägen  8*SEP*0921-12 34 67*SEP*0921-12 34 65*SEP*S-958 22*SEP**SEP*1
+6*SEP*Man Kleider*SEP*Herman Hinschler*SEP*Mannheim*SEP*Germany*SEP*1*SEP*Europe*SEP*Forsterstr. 57*SEP*0621-08924*SEP*0621-08460*SEP*68306*SEP**SEP*1
+7*SEP*Menàge à Trois*SEP*Julie Binoché*SEP*Strasbourg*SEP*France*SEP*1*SEP*Europe*SEP*24, place Kléber*SEP*88.60.15.32*SEP*88.60.15.31*SEP*67000*SEP**SEP*1
+8*SEP*Las Corbatas*SEP*Julio Iglesias*SEP*Madrid*SEP*Spain*SEP*1*SEP*Europe*SEP*C/ de Don Quijote, 67*SEP*(91) 555 91 99*SEP*(91) 555 22 82*SEP*28023*SEP**SEP*1
+9*SEP*La Legion Mercenaire*SEP*Bernard de Gaule*SEP*Marseille*SEP*France*SEP*1*SEP*Europe*SEP*12, rue des Bouchers*SEP*91.24.45.41*SEP*91.24.45.40*SEP*13008*SEP**SEP*1
+10*SEP*Big Foot Shoes*SEP*James Hendersson*SEP*Tsawassen*SEP*Canada*SEP*2*SEP*North America*SEP*23 Tsawassen Blvd.*SEP*(604) 555-3745*SEP*(604) 555-4729*SEP*T2F 8M4*SEP*BC*SEP*1
+11*SEP*Shoe Expert*SEP*David Foot*SEP*London*SEP*UK*SEP*1*SEP*Europe*SEP*Fauntleroy Circus*SEP**SEP*(171) 555-1212*SEP*EC2 5NT*SEP**SEP*1
+12*SEP*Los Pantalones Magicos*SEP*Victoria Abril*SEP*Buenos Aires*SEP*Argentina*SEP*4*SEP*South America*SEP*Plaza de Mayo 6*SEP*(1) 135-4892*SEP*(1) 135-5555*SEP*1010*SEP**SEP*1
+13*SEP*Los Sombreros Gigantes*SEP*Speedy Gonzales*SEP*México D.F.*SEP*Mexico*SEP*2*SEP*North America*SEP*El Barrio Chino 12*SEP*(5) 555-7293*SEP*(5) 555-3392*SEP*5021*SEP**SEP*1
+14*SEP*Das Alpen Shoe*SEP*Alfred Neumann*SEP*Bern*SEP*Switzerland*SEP*1*SEP*Europe*SEP*Hauptstr. 29*SEP**SEP*0452-076545*SEP*3012*SEP**SEP*1
+15*SEP*Tendha do Flamengo*SEP*Edson Arantes do Nascimento*SEP*São Paulo*SEP*Brazil*SEP*4*SEP*South America*SEP*Av. dos Lusíadas, 23*SEP**SEP*(11) 555-7647*SEP*05432-043*SEP**SEP*1
+16*SEP*The sharped dressed man*SEP*Ian Wright*SEP*London*SEP*UK*SEP*1*SEP*Europe*SEP*"Berkeley Gardens
+12  Brewery"*SEP*(171) 555-9199*SEP*(171) 555-2282*SEP*WX1 6LT*SEP**SEP*1
+17*SEP*Gluderstedt*SEP*Lars von Holstein*SEP*Aachen*SEP*Germany*SEP*1*SEP*Europe*SEP*Walserweg 21*SEP*0241-059428*SEP*0241-039123*SEP*52066*SEP**SEP*1
+18*SEP*Aujourd´hui*SEP*Pierre Chardin*SEP*Nantes*SEP*France*SEP*1*SEP*Europe*SEP*67, rue des Cinquante Otages*SEP*40.67.89.89*SEP*40.67.88.88*SEP*44000*SEP**SEP*1
+19*SEP*Th Fashing*SEP*Greg Thatcher*SEP*London*SEP*UK*SEP*1*SEP*Europe*SEP*35 King George*SEP*(171) 555-3373*SEP*(171) 555-0297*SEP*WX1 6LT*SEP**SEP*1
+20*SEP*Ski Store*SEP*Lars Saalbach*SEP*Graz*SEP*Austria*SEP*1*SEP*Europe*SEP*Kirchgasse 6*SEP*7675-3426*SEP*7675-3425*SEP*8010*SEP**SEP*1
+21*SEP*Cloe do Pau*SEP*Romario do Sauza*SEP*São Paulo*SEP*Brazil*SEP*4*SEP*South America*SEP*Rua Orós, 92*SEP**SEP*(11) 555-9857*SEP*05442-030*SEP**SEP*1
+22*SEP*La Camisas Cansadas*SEP*Filemón*SEP*Madrid*SEP*Spain*SEP*1*SEP*Europe*SEP*C/ Moralzarzal, 86*SEP*(91) 555 55 93*SEP*(91) 555 94 44*SEP*28023*SEP**SEP*1
+23*SEP*Champes*SEP*Jaques Wilneuve*SEP*Lille*SEP*France*SEP*1*SEP*Europe*SEP*184, chaussée de Tournai*SEP*20.16.10.17*SEP*20.16.10.16*SEP*59000*SEP**SEP*1
+24*SEP*Sport & Fritid AB*SEP*Linda Haglund*SEP*Bräcke*SEP*Sweden*SEP*3*SEP*Scandinavia*SEP*Åkergatan 24*SEP**SEP*0695-34 67 21*SEP*S-844 67*SEP**SEP*1
+25*SEP*Halle Köln*SEP*Dieter Köln*SEP*München*SEP*Germany*SEP*1*SEP*Europe*SEP*Berliner Platz 43*SEP*089-0877451*SEP*089-0877310*SEP*80805*SEP**SEP*1
+26*SEP*Le Sais de Rión*SEP*Jeanne d´Anjou*SEP*Nantes*SEP*France*SEP*1*SEP*Europe*SEP*54, rue Royale*SEP*40.32.21.20*SEP*40.32.21.21*SEP*44000*SEP**SEP*1
+27*SEP*Il Pantaloni di la Cammorra*SEP*Don Corleone*SEP*Torino*SEP*Italy*SEP*1*SEP*Europe*SEP*Via Monte Bianco 34*SEP*011-4988261*SEP*011-4988260*SEP*10100*SEP**SEP*1
+28*SEP*El Traige do Benfica*SEP*Vitor Baiha*SEP*Lisboa*SEP*Portugal*SEP*1*SEP*Europe*SEP*Jardim das rosas n. 32*SEP*(1) 354-2535*SEP*(1) 354-2534*SEP*1675*SEP**SEP*1
+29*SEP*El Chandal del Barca*SEP*Jusep del pep*SEP*Barcelona*SEP*Spain*SEP*1*SEP*Europe*SEP*Rambla de Cataluña, 23*SEP*(93) 203 4561*SEP*(93) 203 4560*SEP*8022*SEP**SEP*1
+30*SEP*Los Trajes de Matador*SEP*El Cordobes*SEP*Sevilla*SEP*Spain*SEP*1*SEP*Europe*SEP*Finca La Campana, 33*SEP**SEP*(95) 555 82 82*SEP*41101*SEP**SEP*1
+31*SEP*Paintho da Gama*SEP*Anna Figo*SEP*Campinas*SEP*Brazil*SEP*4*SEP*South America*SEP*Av. Brasil, 442*SEP**SEP*(11) 555-9482*SEP*04876-786*SEP**SEP*1
+32*SEP*The Corner Store*SEP*Ross The Boss*SEP*Eugene*SEP*USA*SEP*2*SEP*North America*SEP*2732 Baker Blvd.*SEP**SEP*(503) 555-7555*SEP*97403*SEP*OR*SEP*1
+33*SEP*El Abrigo Mortal*SEP*Antonio Palmer Amer*SEP*Caracas*SEP*Venezuela*SEP*4*SEP*South America*SEP*5ª Ave. Los Palos Grandes*SEP*(2) 283-3397*SEP*(2) 283-2951*SEP*1081*SEP**SEP*1
+34*SEP*El Carnevale*SEP*Joe do Pintho*SEP*Rio de Janeiro*SEP*Brazil*SEP*4*SEP*South America*SEP*Rua do Paço, 67*SEP*(21) 555-8765*SEP*(21) 555-0091*SEP*05454-876*SEP**SEP*1
+35*SEP*El Zapato Rojo*SEP*Nicolas Balines*SEP*San Cristóbal*SEP*Venezuela*SEP*4*SEP*South America*SEP*Carrera 22 con Ave. Carlos Soublette #8-35*SEP*(5) 555-1948*SEP*(5) 555-1340*SEP*5022*SEP**SEP*1
+36*SEP*Pulp Toxedos*SEP*Marcellus Wallace*SEP*Elgin*SEP*USA*SEP*2*SEP*North America*SEP*"City Center Plaza
+516 Main St."*SEP*(503) 555-2376*SEP*(503) 555-6874*SEP*97827*SEP*IL*SEP*1
+37*SEP*Boleros*SEP*Robert Bolero*SEP*Cork*SEP*Ireland*SEP*1*SEP*Europe*SEP*8 Johnstown Road*SEP*29673333*SEP*2967542*SEP*12580*SEP**SEP*1
+38*SEP*King Size Clothes*SEP*Al Yankovic*SEP*Cowes*SEP*UK*SEP*1*SEP*Europe*SEP*"Garden House
+Crowther Way"*SEP**SEP*(198) 555-8888*SEP*PO31 7PJ*SEP**SEP*1
+39*SEP*Noch Einmal GMBH*SEP*Dieter Rummernige*SEP*Brandenburg*SEP*Germany*SEP*1*SEP*Europe*SEP*Maubelstr. 90*SEP**SEP*0555-09876*SEP*14776*SEP**SEP*1
+40*SEP*La Boheme*SEP*Philippe de Laval*SEP*Versailles*SEP*France*SEP*1*SEP*Europe*SEP*"67, avenue de l'Europe"*SEP*30.59.85.11*SEP*30.59.84.10*SEP*78000*SEP**SEP*1
+41*SEP*Elle Fashion & Design*SEP*Louise Davu*SEP*Toulouse*SEP*France*SEP*1*SEP*Europe*SEP*1 rue Alsace-Lorraine*SEP*61.77.61.11*SEP*61.77.61.10*SEP*31000*SEP**SEP*1
+42*SEP*Millenium*SEP*Joe Barry*SEP*Vancouver*SEP*Canada*SEP*2*SEP*North America*SEP*1900 Oak St.*SEP*(604) 555-7293*SEP*(604) 555-3392*SEP*V3F 2K1*SEP*BC*SEP*1
+43*SEP*For The Dark Night*SEP*Klaus Tarantino*SEP*Walla Walla*SEP*USA*SEP*2*SEP*North America*SEP*12 Orchestra Terrace*SEP*(509) 555-6221*SEP*(509) 555-7969*SEP*99362*SEP*WA*SEP*1
+44*SEP*Warp AG*SEP*Klaus Deum*SEP*Frankfurt a.M.*SEP*Germany*SEP*1*SEP*Europe*SEP*Magazinweg 7*SEP*069-0245874*SEP*069-0245984*SEP*60528*SEP**SEP*1
+45*SEP*Bobby Socks*SEP*Vincent Vega*SEP*San Francisco*SEP*USA*SEP*2*SEP*North America*SEP*"87 Polk St.
+Suite 5"*SEP**SEP*(415) 555-5938*SEP*94117*SEP*CA*SEP*1
+46*SEP*Los Vatos Locos*SEP*Tony Montana*SEP*Barquisimeto*SEP*Venezuela*SEP*4*SEP*South America*SEP*Carrera 52 con Ave. Bolívar #65-98 Llano Largo*SEP*(9) 331-7256*SEP*(9) 331-6954*SEP*3508*SEP**SEP*1
+47*SEP*El Pirata*SEP*Andrés Barbanegra*SEP*I. de Margarita*SEP*Venezuela*SEP*4*SEP*South America*SEP*Ave. 5 de Mayo Porlamar*SEP*(8) 34-93-93*SEP*(8) 34-56-12*SEP*4980*SEP**SEP*1
+48*SEP*Too Hot 4U*SEP*Andrea Pamelsson*SEP*Portland*SEP*USA*SEP*2*SEP*North America*SEP*89 Chiaroscuro Rd.*SEP*(503) 555-9646*SEP*(503) 555-9573*SEP*97219*SEP*OR*SEP*1
+49*SEP*"La Moda d'il Futuri"*SEP*Luca Brassi*SEP*Bergamo*SEP*Italy*SEP*1*SEP*Europe*SEP*Via Ludovico il Moro 22*SEP*035-640231*SEP*035-640230*SEP*24100*SEP**SEP*1
+50*SEP*De la Vita*SEP*Marco Van Deum*SEP*Bruxelles*SEP*Belgium*SEP*1*SEP*Europe*SEP*Rue Joseph-Bens 532*SEP*(02) 201 24 68*SEP*(02) 201 24 67*SEP*B-1180*SEP**SEP*1
+51*SEP*Davenport Fashion*SEP*James Belucci*SEP*Montréal*SEP*Canada*SEP*2*SEP*North America*SEP*43 rue St. Laurent*SEP*(514) 555-8055*SEP*(514) 555-8054*SEP*H1J 1C3*SEP*QC*SEP*1
+52*SEP*Kohl Industries AG*SEP*Helmuth Klein*SEP*Leipzig*SEP*Germany*SEP*1*SEP*Europe*SEP*Heerstr. 22*SEP**SEP*0342-023176*SEP*4179*SEP**SEP*1
+53*SEP*Fawtly Towers*SEP*John Cleez*SEP*London*SEP*UK*SEP*1*SEP*Europe*SEP*"South House
+300 Queensbridge"*SEP*(171) 555-2530*SEP*(171) 555-7733*SEP*SW7 1RZ*SEP**SEP*1
+54*SEP*Los Espandrilos Fantasticos*SEP*Don Gerardo*SEP*Buenos Aires*SEP*Argentina*SEP*4*SEP*South America*SEP*"La Colomina la buena vista
+Piso 20-A"*SEP*(1) 135-5535*SEP*(1) 135-5333*SEP*1010*SEP**SEP*1
+55*SEP*SSS-Sport Shoes Store*SEP*Al Bundy*SEP*Anchorage*SEP*USA*SEP*2*SEP*North America*SEP*2743 Bering St.*SEP*(907) 555-2880*SEP*(907) 555-7584*SEP*99508*SEP*AK*SEP*1
+56*SEP*Casual Clothing*SEP*Herman Schlusse*SEP*Köln*SEP*Germany*SEP*1*SEP*Europe*SEP*Mehrheimerstr. 369*SEP*0221-0765721*SEP*0221-0644327*SEP*50739*SEP**SEP*1
+57*SEP*Jazz Style Fashion& Art*SEP*Dizzi Gillespi*SEP*Paris*SEP*France*SEP*1*SEP*Europe*SEP*265, boulevard Charonne*SEP*(1) 42.34.22.77*SEP*(1) 42.34.22.66*SEP*75012*SEP**SEP*1
+58*SEP*La Moda Pasada*SEP*Francisca Font Barceló*SEP*México D.F.*SEP*Mexico*SEP*2*SEP*North America*SEP*Calle Dr. Jorge Cash 321*SEP*(5) 545-3745*SEP*(5) 552-3745*SEP*5033*SEP**SEP*1
+59*SEP*Extrawagens*SEP*Herbert Bernstorf*SEP*Salzburg*SEP*Austria*SEP*1*SEP*Europe*SEP*Geislweg 14*SEP*6562-9723*SEP*6562-9722*SEP*5020*SEP**SEP*1
+60*SEP*La Roba do Santho*SEP*Leopoldo Samba*SEP*Lisboa*SEP*Portugal*SEP*1*SEP*Europe*SEP*Estrada da saúde n. 58*SEP**SEP*(1) 356-5634*SEP*1756*SEP**SEP*1
+61*SEP*Copacabana*SEP*Giovanni Santhos*SEP*Rio de Janeiro*SEP*Brazil*SEP*4*SEP*South America*SEP*Rua da Panificadora, 12*SEP*(21) 555-4545*SEP*(21) 555-4252*SEP*02389-673*SEP**SEP*1
+62*SEP*Roba di Piel*SEP*Jorge Alemaio*SEP*São Paulo*SEP*Brazil*SEP*4*SEP*South America*SEP*Alameda dos Canàrios, 891*SEP**SEP*(11) 555-1189*SEP*05487-020*SEP**SEP*1
+63*SEP*Grunewald*SEP*George Essen*SEP*Cunewalde*SEP*Germany*SEP*1*SEP*Europe*SEP*Taucherstraße 10*SEP**SEP*0372-035188*SEP*1307*SEP**SEP*1
+64*SEP*Ropa total*SEP*Emerson Fittipaldi*SEP*Buenos Aires*SEP*Argentina*SEP*4*SEP*South America*SEP*Av. del Libertador 900*SEP*(1) 123-5556*SEP*(1) 123-5555*SEP*1010*SEP**SEP*1
+65*SEP*X-Site*SEP*Malcolm X*SEP*Albuquerque*SEP*USA*SEP*2*SEP*North America*SEP*2817 Milton Dr.*SEP*(505) 555-3620*SEP*(505) 555-5939*SEP*87110*SEP*NM*SEP*1
+66*SEP*Sport Shop*SEP*Anna Bella*SEP*Reggio Emilia*SEP*Italy*SEP*1*SEP*Europe*SEP*Strada Provinciale 124*SEP*0522-556722*SEP*0522-556721*SEP*42100*SEP**SEP*1
+67*SEP*Da Bikini Expertu*SEP*Thomá Lindao*SEP*Rio de Janeiro*SEP*Brazil*SEP*4*SEP*South America*SEP*Av. Copacabana, 267*SEP**SEP*(21) 555-3412*SEP*02389-890*SEP**SEP*1
+68*SEP*Golden Design Group*SEP*Carl Perry*SEP*Genève*SEP*Switzerland*SEP*1*SEP*Europe*SEP*Grenzacherweg 237*SEP**SEP*0897-034214*SEP*1203*SEP**SEP*1
+69*SEP*La Moda Alucinante*SEP*Emilio Ilegal*SEP*Madrid*SEP*Spain*SEP*1*SEP*Europe*SEP*Gran Vía, 1*SEP*(91) 745 6210*SEP*(91) 745 6200*SEP*28001*SEP**SEP*1
+70*SEP*Alles Lusekofter*SEP*Akkurat Jonny*SEP*Stavern*SEP*Norway*SEP*3*SEP*Scandinavia*SEP*Erling Skakkes gate 78*SEP*07-98 92 47*SEP*07-98 92 35*SEP*4110*SEP**SEP*1
+71*SEP*Sunny Ski Store*SEP*Perry Farell*SEP*Boise*SEP*USA*SEP*2*SEP*North America*SEP*187 Suffolk Ln.*SEP**SEP*(208) 555-8097*SEP*83720*SEP*ID*SEP*1
+72*SEP*Fast Sunglasses*SEP*Ray Banned*SEP*London*SEP*UK*SEP*1*SEP*Europe*SEP*90 Wadhurst Rd.*SEP*(171) 555-5646*SEP*(171) 555-1717*SEP*OX15 4NB*SEP**SEP*1
+73*SEP*Rode & Vite*SEP*Preben Elkjaer*SEP*København*SEP*Denmark*SEP*3*SEP*Scandinavia*SEP*Vinbæltet 34*SEP*31133557*SEP*31123456*SEP*1734*SEP**SEP*1
+74*SEP*Chateau de Ville*SEP*André Millard*SEP*Paris*SEP*France*SEP*1*SEP*Europe*SEP*25, rue Lauriston*SEP*(1) 47.55.60.20*SEP*(1) 47.55.60.10*SEP*75016*SEP**SEP*1
+75*SEP*Macalena*SEP*Paul Smith*SEP*Lander*SEP*USA*SEP*2*SEP*North America*SEP*P.O. Box 555*SEP*(307) 555-6525*SEP*(307) 555-4680*SEP*82520*SEP*WY*SEP*1
+76*SEP*Belgium Black Jeans*SEP*Cheril Cow*SEP*Charleroi*SEP*Belgium*SEP*1*SEP*Europe*SEP*Boulevard Tirou, 255*SEP*(071) 23 67 22 21*SEP*(071) 23 67 22 20*SEP*B-6000*SEP**SEP*1
+77*SEP*Eye Fashion*SEP*Charles Oakley*SEP*Portland*SEP*USA*SEP*2*SEP*North America*SEP*"89 Jefferson Way
+Suite 2"*SEP**SEP*(503) 555-3612*SEP*97201*SEP*OR*SEP*1
+78*SEP*TTT-The Ticky Tie*SEP*Mary Stone*SEP*Butte*SEP*USA*SEP*2*SEP*North America*SEP*55 Grizzly Peak Rd.*SEP*(406) 555-8083*SEP*(406) 555-5834*SEP*59801*SEP*MT*SEP*1
+79*SEP*Boombastic*SEP*Heinz Disco*SEP*Münster*SEP*Germany*SEP*1*SEP*Europe*SEP*Luisenstr. 48*SEP*0251-035695*SEP*0251-031259*SEP*44087*SEP**SEP*1
+80*SEP*Don Balón*SEP*Peloto Gomez*SEP*México D.F.*SEP*Mexico*SEP*2*SEP*North America*SEP*Avda. Azteca 123*SEP**SEP*(5) 555-2933*SEP*5033*SEP**SEP*1
+81*SEP*Merced do Vaile*SEP*Mercedes Couto*SEP*São Paulo*SEP*Brazil*SEP*4*SEP*South America*SEP*Av. Inês de Castro, 414*SEP*(11) 555-2168*SEP*(11) 555-2167*SEP*05442-030*SEP**SEP*1
+82*SEP*Bond Ltd*SEP*Mark Stark*SEP*Kirkland*SEP*USA*SEP*2*SEP*North America*SEP*722 DaVinci Blvd.*SEP*(206) 555-2174*SEP*(206) 555-8257*SEP*98034*SEP*WA*SEP*1
+84*SEP*Art et Fashion*SEP*Pierre Robert*SEP*Lyon*SEP*France*SEP*1*SEP*Europe*SEP*2, rue du Commerce*SEP*78.32.54.87*SEP*78.32.54.86*SEP*69004*SEP**SEP*1
+85*SEP*Pour l´homme*SEP*Henry Renault*SEP*Reims*SEP*France*SEP*1*SEP*Europe*SEP*"59 rue de l'Abbaye"*SEP*26.47.15.11*SEP*26.47.15.10*SEP*51100*SEP**SEP*1
+86*SEP*Autokleider*SEP*Ralf Schumaker*SEP*Stuttgart*SEP*Germany*SEP*1*SEP*Europe*SEP*Adenauerallee 900*SEP*0711-035428*SEP*0711-020361*SEP*70563*SEP**SEP*1
+87*SEP*Perkii Urkii*SEP*Miiko Heikillä*SEP*Oulu*SEP*Finland*SEP*3*SEP*Scandinavia*SEP*Torikatu 38*SEP*981-443655*SEP*981-443655*SEP*90110*SEP**SEP*1
+88*SEP*Da Santho Cosmethia*SEP*Mariah Erdi*SEP*Resende*SEP*Brazil*SEP*4*SEP*South America*SEP*Rua do Mercado, 12*SEP**SEP*(14) 555-8122*SEP*08737-363*SEP**SEP*1
+89*SEP*Nirvana Stores*SEP*Alice Chain*SEP*Seattle*SEP*USA*SEP*2*SEP*North America*SEP*"305 - 14th Ave. S.
+Suite 3B"*SEP*(206) 555-4115*SEP*(206) 555-4112*SEP*98128*SEP*WA*SEP*1
+90*SEP*Leningrad Cowboys Shop*SEP*Reijoo Haajanen*SEP*Helsinki*SEP*Finland*SEP*3*SEP*Scandinavia*SEP*Keskuskatu 45*SEP*90-224 8858*SEP*90-224 8858*SEP*21240*SEP**SEP*1
+91*SEP*Slotzy Danz*SEP*Boniekk Wallessa*SEP*Warszawa*SEP*Poland*SEP*1*SEP*Europe*SEP*ul. Filtrowa 68*SEP*(26) 642-7012*SEP*(26) 642-7012*SEP*01-012*SEP**SEP*1
+94*SEP*Modehuset Abel*SEP*Dennis Olsen*SEP*Århus*SEP*Denmark*SEP*3*SEP*Scandinavia*SEP*Smagsløget 45*SEP*86223344*SEP*86213243*SEP*8200*SEP**SEP*1
+127*SEP*Stephanies*SEP*Staffan Blond*SEP*Stockholm*SEP*Sweden*SEP*3*SEP*Scandinavia*SEP*Gatauppochner. 1*SEP*(8) 11 22 33*SEP*(8) 10 20 30*SEP*11111*SEP**SEP*1
+
